@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @MeaowningStar
-- 👀 I’m interested in Tracking  
-- 🌱 I’m currently learning Tracking
-- 💞️ I’m looking to collaborate on Nobody
-- 📫 How to reach me Ask
-- 😄 Pronouns: 666  
-- ⚡ Fun fact: 666
+Hi i new
 
 <!---
 MeaowningStar/MeaowningStar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
